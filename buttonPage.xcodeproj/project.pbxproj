@@ -11,6 +11,8 @@
 		BDB3788B2A66EAD700451FFC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDB3788A2A66EAD700451FFC /* ContentView.swift */; };
 		BDB3788D2A66EADA00451FFC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BDB3788C2A66EADA00451FFC /* Assets.xcassets */; };
 		BDB378902A66EADA00451FFC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BDB3788F2A66EADA00451FFC /* Preview Assets.xcassets */; };
+		BDB378992A66EB7D00451FFC /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDB378982A66EB7D00451FFC /* SwiftUIView.swift */; };
+		BDB3789B2A66EB9A00451FFC /* NewQuestion.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDB3789A2A66EB9A00451FFC /* NewQuestion.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		BDB3788A2A66EAD700451FFC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BDB3788C2A66EADA00451FFC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BDB3788F2A66EADA00451FFC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BDB378982A66EB7D00451FFC /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
+		BDB3789A2A66EB9A00451FFC /* NewQuestion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewQuestion.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				BDB378882A66EAD700451FFC /* buttonPageApp.swift */,
 				BDB3788A2A66EAD700451FFC /* ContentView.swift */,
+				BDB378982A66EB7D00451FFC /* SwiftUIView.swift */,
+				BDB3789A2A66EB9A00451FFC /* NewQuestion.swift */,
 				BDB3788C2A66EADA00451FFC /* Assets.xcassets */,
 				BDB3788E2A66EADA00451FFC /* Preview Content */,
 			);
@@ -139,6 +145,8 @@
 			files = (
 				BDB3788B2A66EAD700451FFC /* ContentView.swift in Sources */,
 				BDB378892A66EAD700451FFC /* buttonPageApp.swift in Sources */,
+				BDB3789B2A66EB9A00451FFC /* NewQuestion.swift in Sources */,
+				BDB378992A66EB7D00451FFC /* SwiftUIView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
